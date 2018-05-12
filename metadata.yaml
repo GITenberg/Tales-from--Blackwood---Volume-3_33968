@@ -1,0 +1,35 @@
+_repo: Tales-from--Blackwood---Volume-3_33968
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Keene, S. F., Mrs.
+    aliases:
+    - Spear, Sarah Foster
+    - Spear, S. F. (Sarah Foster)
+    gutenberg_agent_id: '45212'
+    url: http://www.gutenberg.org/2009/agents/45212
+description: ''
+gutenberg_issued: '2010-09-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33968'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Friendship -- Juvenile fiction'
+- !lcsh 'Students -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Outdoor life -- Juvenile fiction'
+- !lcsh 'School camps -- Juvenile fiction'
+- !lcsh 'Natural history -- Juvenile fiction'
+- !lcsh 'Children -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Preparatory school students -- Juvenile fiction'
+- !lcsh 'Camping -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+title: The Academy Boys in Camp
+url: http://www.gutenberg.org/ebooks/33968
